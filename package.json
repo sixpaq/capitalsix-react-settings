@@ -1,8 +1,11 @@
 {
   "name": "capitalsix-react-settings",
-  "version": "0.0.2",
-  "description": "Load settings from server side",
+  "version": "0.0.3",
+  "description": "Load server-side settings in React before start",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/sixpaq/capitalsix-react-settings"
+  },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
     "@babel/core": "^7.17.10",
